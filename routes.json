@@ -1,4 +1,7 @@
 [{
   "url": "/api/users",
   "path": "./modules/users/routes"
+}, {
+  "url": "/api/events",
+  "path": "./modules/events/routes"
 }]
