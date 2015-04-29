@@ -8,13 +8,13 @@ var schema;
  * Objct config schema
  */
 schema = {
-    title:          { type: "String", default: ""},
-    description:    { type: "String", default: ""},
-    type:           { type: "String", default: ""},
-    latitude:       { type: "String", default: ""},
-    longitude:      { type: "String", default: ""},
-    create_at:      { type: "String", default: ""},
-    update_at:      { type: "String", default: ""}
+    title:          { type: "String", default: "Title"},
+    description:    { type: "String", default: "Description"},
+    type:           { type: "String", default: "Type"},
+    latitude:       { type: "String", default: "Lat"},
+    longitude:      { type: "String", default: "Long"},
+    create_at:      { type: "String", default: "Create_at"},
+    update_at:      { type: "String", default: "Update_at"}
 
 };
 
