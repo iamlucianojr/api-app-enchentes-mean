@@ -13,8 +13,8 @@ schema = {
     type:           { type: "String", default: ""},
     latitude:       { type: "String", default: ""},
     longitude:      { type: "String", default: ""},
-    create_at:      { type: "Timestamp", default: ""},
-    update_at:      { type: "Timestamp", default: ""}
+    create_at:      { type: "String", default: ""},
+    update_at:      { type: "String", default: ""}
 
 };
 
